@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos y Condiciones - Corporación de Servicios Migratorios Internacionales</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Términos y Condiciones</h1>
+        <p><strong>Corporación de Servicios Migratorios Internacionales</strong></p>
+
+        <p>Al utilizar los servicios ofrecidos por Corporación de Servicios Migratorios Internacionales (en adelante, "la Corporación"), usted acepta y se compromete a cumplir los términos y condiciones descritos a continuación. Estos términos rigen el uso de los servicios y constituyen un acuerdo legal entre usted y la Corporación.</p>
+
+        <h2>1. Condiciones Generales</h2>
+        <p>El acceso y uso de los servicios ofrecidos por la Corporación están sujetos a los presentes términos y condiciones. Nos reservamos el derecho de modificar estos términos en cualquier momento, sin previo aviso. Las modificaciones entrarán en vigor desde su publicación, por lo que recomendamos revisar periódicamente esta sección para estar informado de cualquier cambio.</p>
+
+        <h2>2. Política de No Reembolsos</h2>
+        <h3>2.1 Ventas Finales</h3>
+        <p>Todos los servicios contratados con la Corporación son definitivos y no reembolsables. Esto incluye, pero no se limita a, servicios de asesoría migratoria, gestión de documentos, aplicaciones para visas, y otros trámites migratorios. Una vez realizada la transacción y confirmada la prestación del servicio, no se admiten devoluciones de dinero bajo ninguna circunstancia, salvo en los casos excepcionales previstos por la ley.</p>
+
+        <h3>2.2 Excepciones por Ley</h3>
+        <p>En aquellos casos donde la legislación aplicable requiera la devolución de fondos, la Corporación cumplirá con las disposiciones legales vigentes, siguiendo los procedimientos necesarios para procesar la devolución, si es aplicable.</p>
+
+        <h3>2.3 Confirmación del Servicio</h3>
+        <p>Antes de proceder con cualquier pago, el cliente debe asegurarse de que ha comprendido plenamente el servicio solicitado y sus implicaciones. El cliente es responsable de verificar que toda la información proporcionada para la gestión de trámites migratorios sea correcta y precisa. La Corporación no se hace responsable de errores derivados de información incorrecta o incompleta proporcionada por el cliente.</p>
+
+        <h2>3. Responsabilidades del Cliente</h2>
+        <h3>3.1 Exactitud de la Información</h3>
+        <p>El cliente es responsable de proporcionar información veraz y precisa para la correcta prestación de los servicios. La Corporación no se hace responsable de retrasos, errores o problemas en la tramitación de servicios migratorios causados por información incorrecta, incompleta o engañosa proporcionada por el cliente.</p>
+
+        <h3>3.2 Conformidad con los Servicios Prestados</h3>
+        <p>Es responsabilidad del cliente verificar que los servicios ofrecidos cumplen con sus expectativas antes de confirmar la transacción. La Corporación se compromete a proporcionar los servicios descritos, pero no será responsable si el cliente no obtiene los resultados esperados debido a factores externos, como decisiones de las autoridades migratorias o políticas gubernamentales.</p>
+
+        <h2>4. Modificaciones y Cancelaciones</h2>
+        <h3>4.1 Modificaciones por la Corporación</h3>
+        <p>La Corporación se reserva el derecho de modificar, actualizar o cancelar los servicios en cualquier momento, ya sea por causas de fuerza mayor, cambios en las normativas migratorias o cualquier otro motivo que impida la correcta prestación de los servicios. En caso de cancelación de un servicio por parte de la Corporación, se informará al cliente y se evaluará la posibilidad de reembolsar cualquier pago no utilizado, siempre y cuando no se haya iniciado el proceso de prestación del servicio.</p>
+
+        <h3>4.2 Cancelaciones por el Cliente</h3>
+        <p>Una vez confirmado y pagado un servicio, el cliente no podrá solicitar su cancelación ni el reembolso del monto pagado. Se insta a los clientes a asegurarse de su decisión antes de realizar cualquier transacción.</p>
+
+        <h2>5. Límites de Responsabilidad</h2>
+        <h3>5.1 Resultados de los Servicios</h3>
+        <p>La Corporación no garantiza resultados favorables en los procesos migratorios, ya que estos dependen de decisiones externas, como la aprobación o rechazo por parte de las autoridades migratorias competentes. El cliente acepta que la Corporación actuará como intermediario en la gestión de sus trámites, pero no puede influir en la decisión final.</p>
+
+        <h3>5.2 Casos de Fuerza Mayor</h3>
+        <p>La Corporación no será responsable de fallos o retrasos en la prestación de los servicios que se deban a causas ajenas a su control razonable, como desastres naturales, cambios en la legislación migratoria, actos de gobierno o interrupciones del servicio de terceros.</p>
+
+        <h2>6. Ley Aplicable y Jurisdicción</h2>
+        <p>Estos términos y condiciones están regidos por las leyes de México. Cualquier disputa que surja en relación con estos términos será resuelta ante los tribunales competentes.</p>
+
+        <h2>7. Consentimiento y Aceptación</h2>
+        <p>Al contratar los servicios de la Corporación de Servicios Migratorios Internacionales, usted confirma que ha leído, comprendido y aceptado los presentes términos y condiciones. Si no está de acuerdo con alguna de las disposiciones aquí contenidas, se le recomienda no utilizar los servicios de la Corporación.</p>
+    </div>
+
+</body>
+</html>
